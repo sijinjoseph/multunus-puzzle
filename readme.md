@@ -1,4 +1,4 @@
-Sample client for Multunus Puzzle
+Multunus Puzzle
 =================================
 
 Code for [Multunus Software Puzzle (Twitter)](http://twitterpuzzle.herokuapp.com/).

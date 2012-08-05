@@ -1,0 +1,136 @@
+body {
+	width: 100%;
+	height: auto;
+	background-size: 100%;
+}
+
+.btn-large {
+	padding: 20px 4%;
+	font-size: 1em;
+}
+
+.cloud {
+	margin-top: -133px;
+}
+
+.xmpl {
+	list-style: square;
+	margin: 16px 0px;
+	padding: 10px 15px 10px 15px !important;
+	background-color: rgba(248, 248, 248, 0.5); ! important;
+	color: rgba(248, 248, 248, 0.5);
+	width: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	padding-left: 20px;
+	margin-bottom: 100px;
+}
+
+.output-buttons {
+	font-size: 1.2em;
+	margin-top: 10em;
+}
+
+.output-buttons .btn {
+	margin-right: 1%;
+	font-size: 1.2em;
+}
+
+.instructions {
+	background-color: rgba(248, 248, 248, 0.9); ! important;
+	color: rgba(248, 248, 248, 0.5);
+	width: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	margin-top: 10px;
+	padding: 2em;
+	color: #7B2B8B;
+	font-size: 1.2em;
+}
+
+.instructions li {
+	line-height: 30px;
+}
+
+.question p {
+	margin-top: -144px;
+	margin-left: 28%;
+	font-size: 2em;
+	height: 20%;
+	z-index: 9999999;
+	position: absolute;
+	color: white;
+	font-weight: bold;
+}
+
+.anti-fineprint {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.share-widget {
+	padding-top: 10px;
+	background-color: #B7DAE9;
+	padding-left: 36%;
+	padding-bottom: 10px;
+}
+
+.tag-cloud {
+	padding-bottom: 10px;
+}
+
+.right-column {
+	color: #ffffff;
+	text-shadow: 2px 2px 3px #000000;
+	font-size: 1.2em;
+}
+
+.twitter-form {
+	color: #ffffff;
+	font-size: 2em;
+	font-weight: bold;
+	float: left;
+	position: relative;
+	top: -100px;
+	left: 0px;
+}
+
+.twitter-form>form {
+	display: block;
+	width: 40%;
+	margin: 1em auto;
+	text-align: center;
+	float: right;
+	padding-right: 10%;
+}
+
+.twitter-form .submissions {
+	display: block;
+	width: 30%;
+	margin: 1em auto;
+	float: left;
+	margin-left: 17%;
+}
+
+.submission-list {
+	margin-left: 17%;
+	margin-top: 7px;
+}
+
+.submission-list li {
+	margin-top: 7px;
+}
+
+.twitter-form input[type=text] {
+	height: 35px;
+	font-size: 1.1em;
+}
+
+.twitter-form .btn-large {
+	margin-top: 1em;
+}
+
+h2.error-message {
+	text-align: center;
+	color: #B30000;
+}
